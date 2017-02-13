@@ -1,0 +1,6 @@
+# LDAP query parameters
+master_uri=ldap://IP_ADDRESS:PORT
+slave_uri=ldap://xxx.xxx.xxx.xxx:PORT
+binddn=cn=user,dc=univ,dc=it
+password=xxxx
+searchbase=dc=univ,dc=it
